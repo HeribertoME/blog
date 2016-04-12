@@ -1,0 +1,44 @@
+body{
+    font-size: 16px;
+}
+
+.title-front{
+    text-align: center;
+    font-weight: bold;
+}
+
+.left{
+    text-align: left;
+}
+
+.title-front-header{
+    border-bottom: 1px solid rgba(0, 0, 0, 0.1);
+    font-weight: bold;
+    display: inline-block;
+    padding-bottom: 5px;
+}
+
+.panel-title{
+    font-weight: bold;
+}
+
+.logo{
+    width: 50px;
+}
+
+.img-article{
+    min-height: 300px;
+    max-height: 300px;
+}
+
+.link-enlace{
+    color: whitesmoke;
+}
+
+.link-enlace:hover{
+    color: white;
+}
+
+.fondo-articulo{
+    background-color: white;
+}
